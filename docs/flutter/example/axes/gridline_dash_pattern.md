@@ -7,7 +7,7 @@ Example:
 ```
 /// Example of timeseries chart with gridlines that have a dash pattern.
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class GridlineDashPattern extends StatelessWidget {
   final List<charts.Series> seriesList;

@@ -18,7 +18,7 @@ Example:
 /// to be filled in, with white in these examples. The border of the shape will
 /// be color with the color of the data.
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class ShapesScatterPlotChart extends StatelessWidget {
   final List<charts.Series> seriesList;

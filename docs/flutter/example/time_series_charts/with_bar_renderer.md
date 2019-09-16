@@ -7,7 +7,7 @@ Example:
 ```
 /// Example of a time series chart using a bar renderer.
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class TimeSeriesBar extends StatelessWidget {
   final List<charts.Series<TimeSeriesSales, DateTime>> seriesList;

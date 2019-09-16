@@ -11,7 +11,7 @@ Example:
 /// the line, but with a 10% opacity assigned to it. An area color function can
 /// be provided to override this with any custom color.
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class StackedAreaCustomColorLineChart extends StatelessWidget {
   final List<charts.Series> seriesList;

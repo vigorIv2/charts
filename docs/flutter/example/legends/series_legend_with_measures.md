@@ -10,7 +10,7 @@ Example:
 /// to use the customizations, they do not necessary have to be used together in
 /// this way. Choosing [end] as the position does not require the justification
 /// to also be [endDrawArea].
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
 
 /// Example that shows how to build a series legend that shows measure values

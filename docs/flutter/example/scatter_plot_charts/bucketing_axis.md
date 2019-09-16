@@ -12,7 +12,7 @@ Example:
 /// be drawn in the middle of the bucket range, rather than aligned with the
 /// gridline for that value's position on the scale.
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class BucketingAxisScatterPlotChart extends StatelessWidget {
   final List<charts.Series> seriesList;

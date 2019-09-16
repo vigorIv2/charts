@@ -24,7 +24,7 @@ Example:
 /// when the user taps within the bounding box, or when the user cycles through
 /// the screen's elements (such as swiping left and right).
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class DomainA11yExploreBarChart extends StatelessWidget {
   final List<charts.Series> seriesList;

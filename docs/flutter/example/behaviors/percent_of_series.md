@@ -7,7 +7,7 @@ Example:
 ```
 /// Example of a percentage bar chart which shows each bar as the percentage of
 /// the total series measure value.
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
 
 class PercentOfSeriesBarChart extends StatelessWidget {

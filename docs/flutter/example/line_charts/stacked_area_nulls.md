@@ -20,7 +20,7 @@ Example:
 /// value 3 in the Mobile series, because that series also contains a null at
 /// domain 4.
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class StackedAreaNullsLineChart extends StatelessWidget {
   final List<charts.Series> seriesList;

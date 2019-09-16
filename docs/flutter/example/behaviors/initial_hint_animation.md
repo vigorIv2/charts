@@ -34,7 +34,7 @@ Example:
 /// the right until 2018 is the first value in the viewport.
 
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class InitialHintAnimation extends StatelessWidget {
   final List<charts.Series> seriesList;

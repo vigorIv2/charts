@@ -19,7 +19,7 @@ Example:
 /// See [SelectNearest] behavior on setting the different ways of triggering
 /// [SelectionModel] updates from hover & click events.
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class SelectionCallbackExample extends StatefulWidget {
   final List<charts.Series> seriesList;

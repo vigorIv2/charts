@@ -6,7 +6,7 @@ Example:
 
 ```
 /// Spark Bar Example
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
 
 /// Example of a Spark Bar by hiding both axis, reducing the chart margins.

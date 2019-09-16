@@ -13,7 +13,7 @@ Example:
 /// Disjoint measure axes will be used to scale the series associated with them,
 /// but they will not render any tick elements on either side of the chart.
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class DisjointMeasureAxisLineChart extends StatelessWidget {
   final List<charts.Series> seriesList;

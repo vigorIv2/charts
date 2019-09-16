@@ -7,7 +7,7 @@ Example:
 ```
 /// Example of timeseries chart with custom measure and domain formatters.
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:intl/intl.dart';
 
 class CustomAxisTickFormatters extends StatelessWidget {

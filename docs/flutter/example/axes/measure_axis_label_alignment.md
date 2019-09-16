@@ -6,7 +6,7 @@ Example:
 
 ```
 /// Custom Tick Label Alignment Example
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
 
 /// Example of using a custom primary measure replacing the renderSpec with one

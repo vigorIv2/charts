@@ -7,7 +7,7 @@ Example:
 ```
 /// Example of an ordinal combo chart with two series rendered as bars, and a
 /// third rendered as a line.
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
 
 class OrdinalComboBarLineChart extends StatelessWidget {

@@ -6,7 +6,7 @@ Example:
 
 ```
 /// Bar chart example
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
 
 /// Example of flipping the vertical measure axis direction so that larger values render

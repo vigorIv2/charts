@@ -18,7 +18,7 @@ Example:
 /// a default dash pattern for the series, with only a specific datum called out
 /// with a different pattern.
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class RTLLineSegments extends StatelessWidget {
   final List<charts.Series> seriesList;

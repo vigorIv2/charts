@@ -7,7 +7,7 @@ Example:
 ```
 /// Horizontal bar chart with bar label renderer example and hidden domain axis.
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class HorizontalBarLabelChart extends StatelessWidget {
   final List<charts.Series> seriesList;

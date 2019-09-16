@@ -10,7 +10,7 @@ Example:
 ///
 /// Each bar stack shows the percentage of each measure out of the total measure
 /// value of the stack.
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
 
 class PercentOfDomainByCategoryBarChart extends StatelessWidget {

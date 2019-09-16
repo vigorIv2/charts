@@ -9,7 +9,7 @@ Example:
 ///
 /// An end points axis generates two ticks, one at each end of the axis range.
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 class EndPointsAxisTimeSeriesChart extends StatelessWidget {
   final List<charts.Series> seriesList;

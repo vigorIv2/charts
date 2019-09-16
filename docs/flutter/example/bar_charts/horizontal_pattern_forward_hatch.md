@@ -6,7 +6,7 @@ Example:
 
 ```
 /// Forward pattern hatch bar chart example
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
 
 /// Forward hatch pattern horizontal bar chart example.
